@@ -6,7 +6,7 @@
 }
 
 body {
-  background-image: url(/images/IsmaB/background.png);
+  background-image: url(./images/IsmaB/background.png);
   background-size: 100%;
   background-repeat: no-repeat;
 }
@@ -97,7 +97,7 @@ body {
   align-items: center;
 }
 .div-header {
-  background-image: url(/images/IsmaB/signature.png);
+  background-image: url(./images/IsmaB/signature.png);
   width: 500px;
   height: 50px;
   display: flex;
@@ -143,7 +143,7 @@ div.game-grid {
   height: 500px;
   position: relative;
   border: 1px solid black;
-  background-image: url(/images/IsmaB/TrouverIntrus/cuisineIntrusVide.jpg);
+  background-image: url(./images/IsmaB/TrouverIntrus/cuisineIntrusVide.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -153,7 +153,7 @@ div.game-grid-2 {
   height: 500px;
   position: relative;
   border: 1px solid black;
-  background-image: url(/images/IsmaB/chambreObjets/chambreObjetVide.jpg);
+  background-image: url(./images/IsmaB/chambreObjets/chambreObjetVide.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
@@ -163,7 +163,7 @@ div.game-grid-3 {
   height: 500px;
   position: relative;
   border: 1px solid black;
-  background-image: url(/images/IsmaB/trouvezLesChats/chatVide.jpg);
+  background-image: url(./images/IsmaB/trouvezLesChats/chatVide.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
